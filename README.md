@@ -1,10 +1,3 @@
-# Analisi-linguistica-praat
-Ecco il **README.md** per il tuo progetto, formattato in **Markdown** e strutturato in modo chiaro.  
-Ho incluso titoli, sottotitoli e snippet di codice ben organizzati.  
-
----
-
-```md
 # Fonetica Acustica: Confronto tra Lingue Tonali e Non Tonali
 
 **di Fiocchi Gabriele**  
@@ -201,11 +194,4 @@ for audio, file in cat_full_female.items():
 
 ---
 
-📌 **Autore**: Fiocchi Gabriele  
-📧 **Contatti**: [GitHub](https://github.com) | [Email](mailto:fiocchi@example.com)
-```
-
----
-
-🔹 **Ora il tuo README è pronto!** 🔹  
-Se vuoi modificarlo o aggiungere dettagli, fammelo sapere! 😊
+📌 **Autore**: Fiocchi Gabriele
